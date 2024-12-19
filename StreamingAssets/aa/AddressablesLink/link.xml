@@ -5,6 +5,7 @@
     <type fullname="AssignOutputChannel" preserve="all" />
     <type fullname="Character" preserve="all" />
     <type fullname="Coin" preserve="all" />
+    <type fullname="CoinMagnet" preserve="all" />
     <type fullname="HighscoreUI" preserve="all" />
     <type fullname="MissionEntry" preserve="all" />
     <type fullname="MissionUI" preserve="all" />
@@ -69,6 +70,7 @@
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
     <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
