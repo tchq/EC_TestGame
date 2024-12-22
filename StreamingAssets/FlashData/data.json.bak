@@ -6,7 +6,7 @@
 		"a": 0.75
 	},
 	"preInterval": 0.05,
-	"flashImageName": "flashsprite1.png",
+	"flashImageName": "flashsprite.png",
 	"flashInterval": 0.02,
 	"postColor": {
 		"r": 0.0,
