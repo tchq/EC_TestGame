@@ -1,0 +1,297 @@
+{
+	"Items": [
+		{
+			"name": "flashCharge",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+					],
+					"duration_ms": 20
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"triangle.png",
+						"wk1.png"
+					],
+					"duration_ms": 20
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+					],
+					"duration_ms": 20
+				}
+			]
+		},
+		{
+			"name": "flashEnemyAtk",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashEnemyTap",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashBanner",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashBannerTap",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashObstacleHit",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashBossAtk",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		},
+		{
+			"name": "flashBossTap",
+			"frames": [
+				{
+					"R": 255,
+					"G": 0,
+					"B": 0,
+					"Alpha": 1.0,
+					"image": [
+						"image1.png",
+						"image2.png"
+					],
+					"duration_ms": 500
+				},
+				{
+					"R": 0,
+					"G": 255,
+					"B": 0,
+					"Alpha": 0.8,
+					"image": [
+						"image3.png"
+					],
+					"duration_ms": 300
+				},
+				{
+					"R": 0,
+					"G": 0,
+					"B": 255,
+					"Alpha": 0.5,
+					"image": [
+						"image4.png",
+						"image5.png"
+					],
+					"duration_ms": 700
+				}
+			]
+		}
+	]
+}

@@ -1,18 +1,332 @@
 {
-	"preColor": {
-		"r": 1.0,
-		"g": 0.0,
-		"b": 0.0,
-		"a": 1.0
-	},
-	"preInterval": 0.02,
-	"flashImageName": "flashsprite.png",
-	"flashInterval": 0.02,
-	"postColor": {
-		"r": 0.0,
-		"g": 0.0,
-		"b": 1.0,
-		"a": 0.5
-	},
-	"postInterval": 0.02
+	"Items": [
+		{
+			"name": "flashCharge",
+			"frames": [
+				{
+					"R": 85,
+					"G": 140,
+					"B": 81,
+					"Alpha": 0.99,
+					"image": [
+						"square.png"
+					],
+					"duration_ms": 34
+				},
+				{
+					"R": 85,
+					"G": 140,
+					"B": 81,
+					"Alpha": 0.79,
+					"image": [
+						"wl3.png",
+						"circle.png"
+					],
+					"duration_ms": 30
+				},
+				{
+					"R": 85,
+					"G": 140,
+					"B": 81,
+					"Alpha": 0.58,
+					"image": [
+						"wl1.png"
+					],
+					"duration_ms": 22
+				}
+			]
+		},
+		{
+			"name": "flashEnemyAtk",
+			"frames": [
+				{
+					"R": 53,
+					"G": 216,
+					"B": 226,
+					"Alpha": 0.7,
+					"image": [
+						"wl5.png"
+					],
+					"duration_ms": 22
+				},
+				{
+					"R": 53,
+					"G": 216,
+					"B": 226,
+					"Alpha": 0.66,
+					"image": [
+						"wl4.png",
+						"circle.png"
+					],
+					"duration_ms": 34
+				},
+				{
+					"R": 53,
+					"G": 216,
+					"B": 226,
+					"Alpha": 0.65,
+					"image": [
+						"wl3.png"
+					],
+					"duration_ms": 26
+				}
+			]
+		},
+		{
+			"name": "flashEnemyTap",
+			"frames": [
+				{
+					"R": 163,
+					"G": 194,
+					"B": 211,
+					"Alpha": 0.97,
+					"image": [
+						"triangle.png"
+					],
+					"duration_ms": 21
+				},
+				{
+					"R": 163,
+					"G": 194,
+					"B": 211,
+					"Alpha": 0.88,
+					"image": [
+						"wl2.png",
+						"triangle.png"
+					],
+					"duration_ms": 26
+				},
+				{
+					"R": 163,
+					"G": 194,
+					"B": 211,
+					"Alpha": 0.83,
+					"image": [
+						"wl5.png"
+					],
+					"duration_ms": 20
+				}
+			]
+		},
+		{
+			"name": "flashBanner",
+			"frames": [
+				{
+					"R": 10,
+					"G": 109,
+					"B": 205,
+					"Alpha": 0.88,
+					"image": [
+						"wl2.png"
+					],
+					"duration_ms": 18
+				},
+				{
+					"R": 10,
+					"G": 109,
+					"B": 205,
+					"Alpha": 0.75,
+					"image": [
+						"wl1.png",
+						"circle.png"
+					],
+					"duration_ms": 31
+				},
+				{
+					"R": 10,
+					"G": 109,
+					"B": 205,
+					"Alpha": 0.55,
+					"image": [
+						"circle.png"
+					],
+					"duration_ms": 21
+				},
+				{
+					"R": 10,
+					"G": 109,
+					"B": 205,
+					"Alpha": 0.71,
+					"image": [
+						"wl4.png"
+					],
+					"duration_ms": 20
+				},
+				{
+					"R": 10,
+					"G": 109,
+					"B": 205,
+					"Alpha": 0.83,
+					"image": [
+						"wl4.png"
+					],
+					"duration_ms": 24
+				}
+			]
+		},
+		{
+			"name": "flashBannerTap",
+			"frames": [
+				{
+					"R": 138,
+					"G": 143,
+					"B": 80,
+					"Alpha": 0.94,
+					"image": [
+						"wl4.png"
+					],
+					"duration_ms": 23
+				},
+				{
+					"R": 138,
+					"G": 143,
+					"B": 80,
+					"Alpha": 0.66,
+					"image": [
+						"wl1.png",
+						"square.png"
+					],
+					"duration_ms": 20
+				},
+				{
+					"R": 138,
+					"G": 143,
+					"B": 80,
+					"Alpha": 0.72,
+					"image": [
+						"wl1.png"
+					],
+					"duration_ms": 30
+				}
+			]
+		},
+		{
+			"name": "flashObstacleHit",
+			"frames": [
+				{
+					"R": 69,
+					"G": 167,
+					"B": 182,
+					"Alpha": 0.62,
+					"image": [
+						"wl4.png"
+					],
+					"duration_ms": 34
+				},
+				{
+					"R": 69,
+					"G": 167,
+					"B": 182,
+					"Alpha": 0.59,
+					"image": [
+						"wl3.png",
+						"triangle.png"
+					],
+					"duration_ms": 31
+				},
+				{
+					"R": 69,
+					"G": 167,
+					"B": 182,
+					"Alpha": 0.77,
+					"image": [
+						"circle.png"
+					],
+					"duration_ms": 35
+				},
+				{
+					"R": 69,
+					"G": 167,
+					"B": 182,
+					"Alpha": 0.6,
+					"image": [
+						"circle.png"
+					],
+					"duration_ms": 28
+				}
+			]
+		},
+		{
+			"name": "flashBossAtk",
+			"frames": [
+				{
+					"R": 244,
+					"G": 176,
+					"B": 216,
+					"Alpha": 0.92,
+					"image": [
+						"wl1.png"
+					],
+					"duration_ms": 26
+				},
+				{
+					"R": 244,
+					"G": 176,
+					"B": 216,
+					"Alpha": 0.9,
+					"image": [
+						"wl5.png",
+						"triangle.png"
+					],
+					"duration_ms": 32
+				},
+				{
+					"R": 244,
+					"G": 176,
+					"B": 216,
+					"Alpha": 0.74,
+					"image": [
+						"wl5.png"
+					],
+					"duration_ms": 20
+				}
+			]
+		},
+		{
+			"name": "flashBossTap",
+			"frames": [
+				{
+					"R": 74,
+					"G": 3,
+					"B": 246,
+					"Alpha": 0.98,
+					"image": [
+						"triangle.png"
+					],
+					"duration_ms": 24
+				},
+				{
+					"R": 74,
+					"G": 3,
+					"B": 246,
+					"Alpha": 0.63,
+					"image": [
+						"wl3.png",
+						"square.png"
+					],
+					"duration_ms": 25
+				},
+				{
+					"R": 74,
+					"G": 3,
+					"B": 246,
+					"Alpha": 0.95,
+					"image": [
+						"triangle.png"
+					],
+					"duration_ms": 31
+				},
+				{
+					"R": 74,
+					"G": 3,
+					"B": 246,
+					"Alpha": 0.98,
+					"image": [
+						"wl5.png"
+					],
+					"duration_ms": 27
+				}
+			]
+		}
+	]
 }
