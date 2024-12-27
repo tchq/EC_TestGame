@@ -1,0 +1,66 @@
+{
+    "Items": [
+        {
+            "shirt": {
+                "R": 255,
+                "G": 255,
+                "B": 0,
+                "Alpha": 100,
+                "Images": [
+                    
+                ]
+            },
+            "face": {
+                "R": 0,
+                "G": 0,
+                "B": 0,
+                "Alpha": 100,
+                "Images": [
+                    "wk1.png"
+                ]
+            }
+        },
+        {
+            "shirt": {
+                "R": 255,
+                "G": 0,
+                "B": 255,
+                "Alpha": 50,
+                "Images": [
+                    "triangle.png",
+					"wl2.png"
+                ]
+            },
+            "face": {
+                "R": 0,
+                "G": 0,
+                "B": 0,
+                "Alpha": 50,
+                "Images": [
+                    "wk2.png"
+                ]
+            }
+        },
+        {
+            "shirt": {
+                "R": 0,
+                "G": 255,
+                "B": 255,
+                "Alpha": 25,
+                "Images": [
+                    "circle.png",
+                    "wl3.png"
+                ]
+            },
+            "face": {
+                "R": 0,
+                "G": 0,
+                "B": 0,
+                "Alpha": 10,
+                "Images": [
+                    "wk3.png"
+                ]
+            }
+        }
+    ]
+}
