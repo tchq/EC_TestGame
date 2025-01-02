@@ -3,8 +3,6 @@
     <type fullname="AllLaneObstacle" preserve="all" />
     <type fullname="AssignOutputChannel" preserve="all" />
     <type fullname="Character" preserve="all" />
-    <type fullname="Coin" preserve="all" />
-    <type fullname="CoinMagnet" preserve="all" />
     <type fullname="RandomAnimation" preserve="all" />
     <type fullname="RestartRunning" preserve="all" />
     <type fullname="SimpleBarricade" preserve="all" />
@@ -38,7 +36,6 @@
     <type fullname="UnityEngine.Animation" preserve="all" />
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
-    <type fullname="UnityEngine.Avatar" preserve="all" />
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -69,7 +66,6 @@
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
     <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
-    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
