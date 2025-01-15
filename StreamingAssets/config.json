@@ -1,4 +1,4 @@
 {
-	"useUnityAnalitics": true,
-	"useAmazonWebServiceAnalitics": true
+	"useUnityAnalitics": false,
+	"useAmazonWebServiceAnalitics": false
 }
